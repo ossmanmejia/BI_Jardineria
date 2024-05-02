@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Jardineria", "Jardineria\Jardineria.dtproj", "{DD3833FD-5CF8-4708-B2AC-E1528475581A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3833FD-5CF8-4708-B2AC-E1528475581A}.Development|Default.ActiveCfg = Development
+		{DD3833FD-5CF8-4708-B2AC-E1528475581A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875A853C-DD6B-4373-92CE-35870490E19A}
+	EndGlobalSection
+EndGlobal
