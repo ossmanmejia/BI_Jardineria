@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="OSSMAN_SQLEXPRESS.Jardineria_DMVentasDataWirehouse"
+  DTS:DTSID="{EE0976AA-C7E7-411A-B290-CA38DC572F1B}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=OSSMAN\SQLEXPRESS;Initial Catalog=Jardineria_DMVentasDataWirehouse;Integrated Security=True;Encrypt=False;Application Name=SSIS-Jardineria-{EE0976AA-C7E7-411A-B290-CA38DC572F1B}OSSMAN\SQLEXPRESS.Jardineria_DMVentasDataWirehouse;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
